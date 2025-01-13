@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Marcin Bondaruk! 👋
 
-<!--
-**MarcinBondaruk/MarcinBondaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🌟
 
-Here are some ideas to get you started:
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/marcin-bondaruk-07810b103/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=php,go,js)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react)
+
+#### Backend Technologies
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,gcp,docker,fastapi&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+![Database & Tools](https://skillicons.dev/icons?i=postgres,neo4j,jira,redis,kafka,rabbitmq)
+
+#### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=postman,gitlab,git,github,markdown,figma,githubactions,kubernetes)
