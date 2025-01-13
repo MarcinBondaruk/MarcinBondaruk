@@ -14,10 +14,10 @@ Welcome to my GitHub profile! 🌟
 ![Frontend Technologies](https://skillicons.dev/icons?i=react)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=aws,gcp,docker,fastapi&perline=3)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=aws,gcp,docker)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,neo4j,jira,redis,kafka,rabbitmq)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,jira,redis,kafka,rabbitmq,prometheus)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=postman,gitlab,git,github,markdown,figma,githubactions,kubernetes)
